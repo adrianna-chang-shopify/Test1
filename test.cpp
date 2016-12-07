@@ -6,6 +6,11 @@
 
 //New function:
 
+void anotherNewFunction (int num2)
+{
+	cout<<"num2 is: "num2<<endl;
+}
+
 void funct (int num)
 {
 	num --;
