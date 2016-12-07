@@ -5,6 +5,12 @@
 //And here
 
 //New function:
+//Some code here
+
+int newFunction (int num)
+{
+	return num + 2;
+}
 
 void funct (int num)
 {
